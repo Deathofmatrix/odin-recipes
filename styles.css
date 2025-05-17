@@ -1,3 +1,25 @@
-a {
-    color: green;
+* {
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #F1FAEE;
+}
+
+ul {
+    list-style-type: none;
+    padding: 1em;
+}
+
+li {
+    color: #457B9D;
+    font-size: 16px;
+    margin-bottom: 1em;
+}
+
+#title {
+    color: #E63946;
+    font-size: 32px;
+    margin: 0px auto 1em auto;
+    padding: 1em;
+    border-bottom: 4px ridge #A8DADC;
 }
